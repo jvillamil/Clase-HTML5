@@ -1,12 +1,6 @@
-h1 { color:red; }
 h1 {
     color:#red;
     font-size: 70px;
 }
-p {
-  color:blue;
-  font-size: 39px;
-}
-p {
-  text-align: center;
-}
+#primero {
+ color:#E42828; }
