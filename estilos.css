@@ -4,3 +4,10 @@ h1 {
 }
 #primero {
  color:#E42828; }
+ p{
+ 	color:#926060;
+ 	font-size: 32px;
+ }
+ #primero p{
+ 	color:#DF8C0E;
+ }
